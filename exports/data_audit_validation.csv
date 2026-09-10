@@ -1,0 +1,17 @@
+Space Agency,Mission Status,Record Count,Missing Duration Count
+ESA,Failure,4,0
+ESA,Partial,5,0
+ESA,Success,6,0
+ESA,success,2,0
+ISRO,Failure,1,0
+ISRO,Partial,3,0
+ISRO,Success,5,0
+ISRO,success,4,0
+NASA,Failure,5,0
+NASA,Partial,4,0
+NASA,Success,3,0
+NASA,success,3,0
+nasa,Failure,2,0
+nasa,Partial,2,0
+nasa,Success,3,0
+nasa,success,4,0
